@@ -1,0 +1,16 @@
+Name: Raya C. Kehlen
+Age: 22
+Height: 155 cm (5' 1")
+Weight: 42 kg (92.59 lb)
+Circumference: B72 W45 H75 (72A cup)
+Introduction:
+	Raya is a pink rabbit girl who graduated with an art degree and currently works at Studio ScyphozoaX. She adores wearing solid white outfits, which is why her wardrobe exclusively contains white tops. However, she often accidentally stains her clothes while eating, a recurring frustration that nevertheless never diminishes her unwavering preference for white attire.
+	She enjoys movie-watching and creative pursuits, with a particular fondness for fighting games and action games. This gaming preference creates a stark contrast with her delicate appearance, often surprising those who know her. 
+	Compared to other rabbit girls, Raya maintains a relatively quiet demeanor in daily life, making her somewhat unique. Yet when encountering people or things that resonate with her wavelength, she becomes exceptionally animated and lively.
+
+AI generation method (promote):
+
+daily outfit:
+masterpiece,best quality,absurdres,newest,very aesthetic,amazing quality,highres,
+(furry:1.5),solo,rabbit girl,pink hair,short hair,pink eyes,pink rabbit,long ears,folded ears,
+long dress,pure white dress,white sleeves,bare legs,white socks,black shoes,
